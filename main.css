@@ -53,3 +53,10 @@ footer {
 .email-link {
   font-size: 25px;
 }
+
+.open-src {
+  text-align: center;
+  margin-top: 80px;
+  font-size: 20px;
+  color: rgb(77, 4, 77);
+}
